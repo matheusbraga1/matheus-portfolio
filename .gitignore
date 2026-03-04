@@ -1,0 +1,26 @@
+# IDE and editor
+.vscode/
+.idea/
+
+# Claude Code
+.claude/
+
+# DevContainer
+.devcontainer/
+
+# Scripts
+scripts/
+
+# Tasks
+tasks/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+.env.local
+
+# Credentials
+js/config.js
